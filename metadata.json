@@ -1,0 +1,15 @@
+{
+  "name": "dougmiller2-ssh",
+  "version": "0.1.0",
+  "author": "Doug Miller <to_doug@hotmail.com>",
+  "summary": "This student module will manage ssh.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/dougmiller2/puppet-ssh-dlm-repo",
+  "project_page": "https://github.com/dougmiller2/puppet-ssh-dlm-repo",
+  "issues_url": "https://github.com/dougmiller2/puppet-ssh-dlm-repo/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
